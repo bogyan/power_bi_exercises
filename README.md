@@ -8,4 +8,5 @@ Some Power Bi example projects that I've done to improve my skills:
 
  - [Plant and Co. Report](https://app.powerbi.com/groups/me/reports/35583dd6-9c63-4f34-99c5-dfdb5d6b4860/ReportSection?bookmarkGuid=aaeaeac1-4042-46b2-8a1c-ea81d0958c35&bookmarkUsage=1&ctid=164e1b0e-c8e5-41a9-9bbb-6f7ed40eef04&portalSessionId=ee5a9cb8-d7f5-46f0-bc0d-bb8db3c726d3&fromEntryPoint=export.md)
 
+ - [IT Department Project](https://app.powerbi.com/groups/me/reports/f79c31c6-9026-46a9-b03d-a7fc9e8ee2d2/ReportSection?bookmarkGuid=266608ce-7019-4662-bdda-b12605ad39bf&bookmarkUsage=1&ctid=164e1b0e-c8e5-41a9-9bbb-6f7ed40eef04&portalSessionId=229f17f3-7620-41d7-817f-afabc3f8db88&fromEntryPoint=export.md)
 
